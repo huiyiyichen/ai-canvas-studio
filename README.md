@@ -3,6 +3,7 @@
 <p align="center">属于你自己的桌面 AI 视觉创作工作台</p>
 
 <p align="center">
+  <a href="https://github.com/huiyiyichen/ai-canvas-studio/actions/workflows/desktop-build.yml"><img alt="Desktop Build" src="https://github.com/huiyiyichen/ai-canvas-studio/actions/workflows/desktop-build.yml/badge.svg" /></a>
   <img alt="React" src="https://img.shields.io/badge/React-19.2-149ECA?logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white" />
